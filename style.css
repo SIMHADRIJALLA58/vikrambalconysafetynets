@@ -231,7 +231,7 @@ body {
 /* ================= MAIN NAVBAR ================= */
 .main-navbar {
   top: 38px; /* IMPORTANT: pushes navbar below top bar */
-  background-color: whitesmoke;
+  background-color: rgb(244, 239, 239);
 }
 .navbar:hover{
     color:black;
