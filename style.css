@@ -676,7 +676,7 @@ body {
   transform: translate(-50%, -50%);
 
   text-align: center;
-  color: #060606;
+  color: #daf206;
   z-index: 2;
 
   width: 100%;
@@ -2611,6 +2611,28 @@ body {
   color: #38bdf8;
 
   padding-left: 5px;
+}
+.footer-brand span{
+  color: #76db6a;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.footer-links h4{
+  position: relative;
+  display: inline-block;
+  padding-bottom: 6px;
+}
+
+.footer-links h4::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 40px;
+  height: 3px;
+  background: #76db6a;
+  border-radius: 10px;
 }
 
 /* ===================================
