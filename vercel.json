@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "vikrambalconysafetynets.vercel.app"
+        }
+      ],
+      "destination": "https://vikrambalconysafetynets.in/$1",
+      "permanent": true
+    }
+  ]
+}
