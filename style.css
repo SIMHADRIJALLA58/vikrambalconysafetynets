@@ -685,6 +685,7 @@ body {
   animation: fadeUp 1s ease;
 }
 
+
 /* Animation */
 @keyframes fadeUp {
   from {
@@ -744,15 +745,18 @@ body {
 /* ===== FORCE FIX (FINAL) ===== */
 
 .hero-title {
-  font-size: 90px !important;
+  font-size: 50px !important;
+   font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  letter-spacing: 2px;
 }
 
 .hero-tag {
-  font-size: 28px !important;
+  font-size: 25px !important;
 }
 
 .hero-content .lead {
-  font-size: 30px !important;
+  font-size: 20px !important;
 }
 
 .hero-location {
@@ -2822,3 +2826,4 @@ body {
 #id6{
   background-color: rgb(232, 236, 237);
 }
+
