@@ -209,3 +209,11 @@
     text-align: center;
   }
 }
+
+
+
+.hero-title{
+  color: #ff4d4d; /* change to any color you want */
+  font-weight: 600;
+}
+
